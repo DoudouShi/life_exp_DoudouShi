@@ -1,0 +1,29 @@
+---
+title: "git test2"
+author: "Doudou Shi"
+date: "8/27/2020"
+output: pdf_document
+---
+
+```{r}
+library(tidyverse)
+
+```
+
+```{r}
+install.packages("gapminder")
+library(gapminder)
+```
+```{r}
+data("gapminder_unfiltered")
+```
+
+```{r}
+head(gapminder_unfiltered) 
+```
+ 
+```{r}
+
+```
+ 
+
